@@ -3,7 +3,7 @@ mfcochauxlaberge
 
 My personal website source code written in PHP with Laravel.
 
-[http://mfcochauxlaberge.ca/]{http://mfcochauxlaberge.ca}
+http://mfcochauxlaberge.ca/
 
 ## Licence
 
