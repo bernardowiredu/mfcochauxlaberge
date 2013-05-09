@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^cgelinas\.ca$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.cgelinas\.ca$
+RewriteRule ^/?$ "https\:\/\/facebook\.com\/cgelinasphotographie" [R=301,L]
+
